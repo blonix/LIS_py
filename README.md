@@ -1,4 +1,4 @@
-# LIS_py
-Logic Is Simple - python version
+# nosality
+Nosality - python version
 
 Widely adoptable deep learning AI system by learning causality.
