@@ -1,4 +1,4 @@
-# nosality
-Nosality - python version
+# glados
+glados - python version
 
-Widely adoptable deep learning AI system by learning causality.
+Widely adoptable AI system with dynamic cores.
